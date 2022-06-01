@@ -7,13 +7,13 @@ using namespace std;
 int main(int argc, char const *argv[])
 {
     int numeroEntero;
-    numero = 15;
+    numeroEntero = 15;
 
-    cout<<numeroEntero;
+    cout<<"Entero: "<<numeroEntero<<endl;
 
-    numeroEntero = 18;
+    numeroEntero=18;
 
-    cout<<numeroEntero;
+    cout<<"Entero Modificado:"<<numeroEntero;
     
     return 0;
 }
