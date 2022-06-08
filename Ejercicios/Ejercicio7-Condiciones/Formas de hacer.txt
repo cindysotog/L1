@@ -1,0 +1,66 @@
+include <iostream>
+
+using namespace std;
+
+int main(int argc, char** argv) {
+	
+	int a = 10;
+	int b = 20;
+	int c = 15;
+
+	//true 		true
+	if (a > b && a> c)
+	{
+		// aqui va el codigo
+		cout<<"A es mayor";
+	}
+	if(b > a && b > c)
+	{
+		cout<<"B es el mayor";
+	}
+	if ( c> a && c> b)
+	{
+		cout<<"C es el mayor";
+	}
+	
+
+    //otra forma de hacer
+    
+    
+    int a = 10;
+    int b = 20;
+    int c = 100;
+    int d = 40;
+
+    //  false     false    true
+    if( a > c ||  b > c || d > c)
+    {
+        cout<<" A o B son mayores que C";
+    }
+    else
+    {
+
+    }
+
+    return 0;
+    }
+
+    if((a > b && a > c) || (c > d || d > e)&& f> z)
+    
+    if (a > b)
+    {
+        if ( a > c)
+        {
+            ...
+        }
+        else
+        {
+            if (c > d)
+            {
+                if ( d > e)
+                {
+                    ...
+                }
+            }
+        }
+    }
