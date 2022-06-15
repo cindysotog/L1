@@ -198,7 +198,7 @@ int main(int argc, char** argv) {
                                                                                             {
                                                                                                 cout<<"Obtuviste una F";
                                                                                             } else {
-                                                                                                if(nota = 0 )
+                                                                                                if(nota == 0 )
                                                                                                 {
                                                                                                     cout<<"Obtuviste una F--";
                                                                                                 } else {
