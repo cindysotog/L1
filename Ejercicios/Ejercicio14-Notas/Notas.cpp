@@ -83,7 +83,7 @@ if (nota >= 95 && nota <= 100)
                         {
                             cout<<"Obtuviste una F";
                         } else {
-                            cout<<"Ingrese una nota entre 0-100;"
+                            cout<<"Ingrese una nota entre 0-100";
                         }
                     }
 
