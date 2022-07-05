@@ -6,6 +6,7 @@ string nombreCompleto (string nombre, string apellido)
 {
     return nombre + " " + apellido;
 }
+
 int main(int argc, char const *argv[])
 {
     string primerNombre = "";
