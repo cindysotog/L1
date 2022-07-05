@@ -25,6 +25,7 @@ int dividir ( int a, int b )
     return a / b;
 }
 
+
 int calculadora ( int a, int b, char operador)
 {
     switch (operador)
