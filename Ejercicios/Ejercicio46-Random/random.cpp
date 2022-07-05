@@ -9,7 +9,8 @@ int main(int argc, char const *argv[])
     int numero = 0;
 
 
-// Inicializa el numero random
+//      Se inicializa el numero random
+
     srand (time (NULL));
 
     for (int i = 0; i < 20; i++)
