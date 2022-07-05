@@ -20,8 +20,6 @@ int main(int argc, char const *argv[])
 
         cout << "Numero al azar: " << numero << endl;
     }
-    
-
 
     return 0;
 }
