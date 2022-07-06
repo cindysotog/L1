@@ -25,7 +25,7 @@ void adivinarNumeroSecreto(int miNumero)
 
 int main (int argc, char const *argv [])
 {
-    adivinarNumeroSecreto(5)
+    adivinarNumeroSecreto(5);
 
 
     return 0;
