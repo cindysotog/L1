@@ -18,8 +18,6 @@ int main(int argc, char const *argv[])
 
     numero [2][0] = aleatorio;
     numero [2][1] = aleatorio;
-
-
     
     srand (time (NULL));// Inicializa el numero random
 
