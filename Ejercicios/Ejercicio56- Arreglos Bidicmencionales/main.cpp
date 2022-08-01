@@ -1,4 +1,3 @@
-//                                Tarea 11
 #include <iostream>
 #include <stdlib.h>
 #include <time.h>
